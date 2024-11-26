@@ -93,7 +93,6 @@
 [🗓️ WBS 상세 보기](https://docs.google.com/spreadsheets/d/1VdXKl6pfghy9OK6zTpShCHeG1uyAGB85Y2ycm1viF5g/edit?usp=sharing)
 
 
-
 <br/>
 
 ## 📝 요구사항정의서
@@ -105,9 +104,7 @@
 
 ## 📋 ERD
 
-![10-04 17;43;57](https://github.com/user-attachments/assets/996d0475-6631-4f5b-8a92-a8c780ffb7c0)
-![Fixed SwithT erd(24-09-20)](https://github.com/user-attachments/assets/2bdb36fa-7ef1-4860-8a0b-bc9ad29ce864)
-
+![findboard추가ERD (1)](https://github.com/user-attachments/assets/a7a859f6-06dd-436d-9fb4-dee6afef6081)
 
 <br/>
 
@@ -268,5 +265,106 @@
   ![마이페이지찜목록](https://github.com/user-attachments/assets/748c9573-343e-470e-a69f-5ea850cdbfe9)
       </li>
     </ul>
+  </div>
+</details>
+
+## ✨ Devops Architecture
+
+-CI/CD 아키텍처 설계서
+<details>
+  <summary>
+    <b>백엔드 아키텍처 임시</b>
+  </summary>
+  <div markdown="1" align="left">
+    
+  ![backend_architecture](https://github.com/user-attachments/assets/e67a6a06-394f-4f35-b134-b9792184430c)
+  </div>
+</details>
+
+<details>
+  <summary>
+    <b>프론트엔드 아키텍처 임시</b>
+  </summary>
+  <div markdown="1" align="left">
+    
+  ![frontend_architecture](https://github.com/user-attachments/assets/d3ac833e-66fa-48e0-9edb-e6dc7f5d7657)
+  </div>
+</details>
+
+<details>
+  <summary>
+    <b>구성 스크립트 및 설정 파일</b>
+  </summary>
+  <div markdown="1">
+    <ul>
+      <li>deploy_k8s.yml
+        
+  ![deploy_noexit_k8s야뮬](https://github.com/user-attachments/assets/e7463c5a-edac-4668-ac99-94047e6f89c7)
+      </li>
+      <li>certificate.yml
+        
+  ![certificateyml](https://github.com/user-attachments/assets/d87d5d94-4efe-4a87-90dd-2b2d735507ca)
+      </li>
+      <li>deploy_noexit.yml
+        
+  ![depl1](https://github.com/user-attachments/assets/adf106e9-f4fc-4255-9764-c42292edd81f)
+  ![depl2](https://github.com/user-attachments/assets/3629ccb7-0e74-4a34-abe3-762d16b41fe5)
+      </li>
+      <li>ingress.yml
+        
+  ![인그래스yml](https://github.com/user-attachments/assets/81d931a5-0a65-4f53-8572-4e83875711b4)
+      </li>
+      <li>service.yml
+        
+  ![서비스yml](https://github.com/user-attachments/assets/53a5b718-be9c-4f1c-ba20-a398a9495542)
+      </li>
+      <li>Dockerfile
+        
+  ![도커파일](https://github.com/user-attachments/assets/e8e83182-1ce1-4e1a-a35f-da3c60d097e5)
+      </li>
+    </ul>
+  </div>
+</details>
+
+## AWS 인프라 자원
+
+<details>
+  <summary>
+    <b>자원 구성</b>
+  </summary>
+  <div markdown="1" align="left">
+    <ul>
+      <li>ECR
+        
+  ![ECR자원캡처](https://github.com/user-attachments/assets/a832bf51-f150-4d6e-ab62-6c406f1af7f5)
+      </li>
+      <li>k8s
+        
+  ![k8s클러스터자원캡처](https://github.com/user-attachments/assets/830ea11e-39ce-4055-bfd3-918a176773bc)
+      </li>
+      <li>RDS
+        
+  ![RDS자원캡쳐](https://github.com/user-attachments/assets/41962214-848c-4cce-bf17-a0e9fd60470d)
+      </li>
+      <li>ElastiCache
+        
+  ![일라스틱캐시자원캡처](https://github.com/user-attachments/assets/15e8289c-b772-486f-9473-5ee98bbd643b)
+      </li>
+    </ul>
+  </div>
+</details>
+
+## 배포 URL 테스트 결과 GIF
+<details>
+  <summary>
+    <b>GIF</b>
+  </summary>
+  <div markdown="1" align="left">
+  
+  ![전체기능훏기2](https://github.com/user-attachments/assets/776245b2-2815-4543-b20d-b8f4e0bf3615)
+    
+  ![url로그인](https://github.com/user-attachments/assets/c97b0f94-ab39-4a40-bfa5-e2f4b65a1413)
+    
+  ![전체기능훏기3](https://github.com/user-attachments/assets/7951ac2d-cd5d-4f0a-9971-64be11803f4a)
   </div>
 </details>
