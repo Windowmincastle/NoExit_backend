@@ -273,7 +273,7 @@
 -CI/CD 아키텍처 설계서
 <details>
   <summary>
-    <b>백엔드 아키텍처 임시</b>
+    <b>백엔드 아키텍처</b>
   </summary>
   <div markdown="1" align="left">
     
@@ -283,7 +283,7 @@
 
 <details>
   <summary>
-    <b>프론트엔드 아키텍처 임시</b>
+    <b>프론트엔드 아키텍처</b>
   </summary>
   <div markdown="1" align="left">
     
