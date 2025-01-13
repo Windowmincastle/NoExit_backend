@@ -186,7 +186,7 @@
 
 <details>
   <summary>
-    <b>Escape With me</b>
+    <b>모집하기</b>
   </summary>
   <div markdown="1">
     <ul>
