@@ -263,8 +263,6 @@
 </details>
 
 ## ⚙ Devops Architecture
-
--CI/CD 아키텍처 설계서
 <details>
   <summary>
     <b>백엔드 아키텍처</b>
@@ -350,7 +348,7 @@
 
 
 
-## 배포 URL 테스트 결과 GIF
+## 배포 테스트
 <details>
   <summary>
     <b>GIF</b>
