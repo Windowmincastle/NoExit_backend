@@ -318,6 +318,7 @@
       </li>
     </ul>
   </div>
+</details>
 
 ### AWS 인프라 자원
 
@@ -346,8 +347,8 @@
     </ul>
   </div>
 </details>
-  
-</details>
+
+
 
 
 
