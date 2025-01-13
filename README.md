@@ -320,11 +320,9 @@
   </div>
 </details>
 
-### AWS 인프라 자원
-
 <details>
   <summary>
-    <b>자원 구성</b>
+    <b>AWS Infra 자원 구성</b>
   </summary>
   <div markdown="1" align="left">
     <ul>
