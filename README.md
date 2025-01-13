@@ -100,11 +100,14 @@
 
 
 [📝 요구사항 명세서 상세보기](https://docs.google.com/spreadsheets/d/1VdXKl6pfghy9OK6zTpShCHeG1uyAGB85Y2ycm1viF5g/edit?gid=566809607#gid=566809607)
-
+![noexit_최신요구사항정의서1](https://github.com/user-attachments/assets/34187264-cd03-4777-ae4d-8b4512b41279)
+![noexit최신요구사항정의서2](https://github.com/user-attachments/assets/1d6d2312-3617-44c5-b68f-55ed85677a4c)
 <br/>
 
 ## 📋 ERD
 
+
+[📝 ERD 상세보기 ](https://www.erdcloud.com/d/AwXSESqgB6Nw2SZZ5)
 ![NoEXIT ERD 새로운 버전](https://github.com/user-attachments/assets/4f0495ca-6286-479f-8478-f7986712faeb)
 <br/>
 
