@@ -1,4 +1,4 @@
-방탈출게임을 사랑하는 찐덕후들을 위한 통합 플랫폼 서비스
+##방탈출게임을 사랑하는 찐덕후들을 위한 통합 플랫폼 서비스
 
 ![NoExit_Logo](https://github.com/user-attachments/assets/c82287fc-49f0-49ee-8602-a9835d39aafa)
 
@@ -120,7 +120,7 @@
 | **실시간 알림을 통한 커뮤니티 활성화** | 자신이 작성한 게시글에 댓글이 작성되면 실시간 알림, 자신이 작성한 댓글이 추천되면 실시간 알림을 받을 수 있습니다.                   |
 <br/>
 
-## ✨ 기능 테스트 및 시연
+## 🛠 기능 테스트 및 시연
 
 <details>
   <summary>
@@ -261,7 +261,7 @@
   </div>
 </details>
 
-## ✨ Devops Architecture
+## ⚙ Devops Architecture
 
 -CI/CD 아키텍처 설계서
 <details>
