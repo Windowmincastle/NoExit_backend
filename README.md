@@ -88,9 +88,10 @@
 
 
 ## 🗓️ Work Breakdown Structure
-
-
 [🗓️ WBS 상세 보기](https://docs.google.com/spreadsheets/d/1VdXKl6pfghy9OK6zTpShCHeG1uyAGB85Y2ycm1viF5g/edit?usp=sharing)
+![noexit_최신wbs1](https://github.com/user-attachments/assets/e9995986-c3c7-4c52-a841-cdb4fd10ea2c)
+![noexit_최신wbs2](https://github.com/user-attachments/assets/811db6b7-22e6-417d-95b6-299bdc5fc4db)
+![noexit_최신wbs3](https://github.com/user-attachments/assets/e8c518be-239b-4ea2-aa6c-adb4f2e1e6df)
 
 
 <br/>
