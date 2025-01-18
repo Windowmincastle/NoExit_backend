@@ -21,8 +21,7 @@
   
 <div align="left">
   
-  ![escape-room-market](https://github.com/user-attachments/assets/4670d24b-8fc1-4d96-9d18-a9b35f8821ec)
-  
+  ![2025-01-18 16;00;44](https://github.com/user-attachments/assets/922871dc-5b57-47c7-b4df-74b3df676744)
 -  방탈출 카페 산업은 새로운 여가활동을 찾는 사람들이 늘어나면서 빠르게 성장하고 있습니다. 친구나 가족과 특별한 경험을 즐기고자 하는 소비자들의 수요가 증가하며, 방탈출 카페는 다양한 테마와 독특한 경험을 제공하며 점점 더 큰 인기를 얻고 있습니다. 하지만 소비자들이 방탈출 카페를 쉽게 검색하고 예약할 수 있는 플랫폼은 부족한 실정입니다.
 
 
