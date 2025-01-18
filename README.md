@@ -1,6 +1,8 @@
 # 💕 방탈출게임을 사랑하는 찐덕후들을 위한 통합 플랫폼 서비스
 
-![NoExit_Logo](https://github.com/user-attachments/assets/c82287fc-49f0-49ee-8602-a9835d39aafa)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c82287fc-49f0-49ee-8602-a9835d39aafa" alt="NoExit_Logo" />
+</div>
 
 <br/>
 
