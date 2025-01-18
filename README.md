@@ -246,7 +246,6 @@
       <li>게시판 글 추천/비추천
         
   ![게시글좋아요싫어요](https://github.com/user-attachments/assets/dc3e7362-c39f-4c5f-9b44-29ea2fc41b02)</li>
-      <li>댓글 작성 및 수정</li>
       <li>댓글 추천/비추천
         
   ![댓글좋아요싫어요](https://github.com/user-attachments/assets/f74b1d7c-05bc-488b-abd2-de82d071a6fa)
@@ -280,7 +279,7 @@
 ## ⚙ Devops Architecture
 <details>
   <summary>
-    <b>백엔드 아키텍처</b>
+    <b>프론트엔드 아키텍처</b>
   </summary>
   <div markdown="1" align="left">
     
@@ -290,7 +289,7 @@
 
 <details>
   <summary>
-    <b>프론트엔드 아키텍처</b>
+    <b>백엔드 아키텍처</b>
   </summary>
   <div markdown="1" align="left">
     
