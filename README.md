@@ -12,7 +12,7 @@
 
 ## 🙋🏻팀원
 
-| **김민성** | **김민지** | **박수현** | **이명규** |
+| **김민성 [팀장]** | **김민지** | **박수현** | **이명규** |
 | :------: |  :------: | :------: | :------: |
 | [<img src="https://avatars.githubusercontent.com/Windowmincastle" height=150 width=150> <br/> @Windowmincastle](https://github.com/Windowmincastle) | [<img src="https://avatars.githubusercontent.com/epiuwiruiw" height=150 width=150> <br/> @epiuwiruiw](https://github.com/epiuwiruiw) | [<img src="https://avatars.githubusercontent.com/34suuuuu" height=150 width=150> <br/> @34suuuuu](https://github.com/34suuuuu) | [<img src="https://avatars.githubusercontent.com/leem5514" height=150 width=150> <br/> @leem5514](https://github.com/leem5514) |
 
